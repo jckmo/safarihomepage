@@ -67,6 +67,7 @@
         float: right;
         padding: 2.08333333333%;
         width: 30%;
+        border-radius: 7px;
     }
 
     h1 {
@@ -123,6 +124,7 @@
 
     img {
         max-width: 10%;
+        border-radius: 200px;
     }
 
     img:hover {
